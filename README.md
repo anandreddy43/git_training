@@ -2,9 +2,6 @@
 
 ## Branching Model
 
-1. Master Branch: No direct change is allowed. Only pull request changes are merged.
+1. Dev Branch this is for testing purpose.
 
-2. Dev Branch: Direct change is allowed
-
-
-
+2. This last changes
